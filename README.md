@@ -1,4 +1,3 @@
-@'
 # MUSE:eye (Unofficial Fork of Google AI Edge Gallery)
 
 > **Unofficial fork** of [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery).  
