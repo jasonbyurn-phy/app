@@ -1,0 +1,19 @@
+﻿NOTICE
+
+This repository is a modified version (fork) of the Google AI Edge Gallery project.
+Original repository: https://github.com/google-ai-edge/gallery
+Original work licensed under the Apache License, Version 2.0.
+
+Modifications:
+- Project name/branding changed to MUSE:eye (package: com.kyeongmin.museeye)
+- UI/UX changes (themes, icons, backgrounds), ko-KR localization
+- On-device RAG: MobileCLIP + FAISS integration, prompt helpers
+- Build scripts adapted for Gradle KTS / Android Studio
+
+Copyright
+- Original code: (c) Google and other contributors (see original repository)
+- Modifications: (c) Kyeongmin Kim 2025
+
+Trademark Notice
+- “Google” and related marks are trademarks of Google LLC. This project is not affiliated with,
+  endorsed by, or sponsored by Google LLC.
