@@ -7,7 +7,7 @@
 ## What is this?
 - On-device AI demo adapted for museum docent use:
   - Korean UI / custom branding
-  - On-device RAG (MobileCLIP + FAISS) for artwork explanations
+  - On-device RAG (Mobilenet_V3) for artwork explanations
   - TTS, prompt templates, theme tweaks
 
 ## Changes from Upstream
